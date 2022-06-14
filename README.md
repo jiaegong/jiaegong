@@ -3,7 +3,7 @@
 I'm a frontend junior developer(React.js) from Korea👶 I have a passion for learning new things and sharing with others. JavaScript is my first language!😄
 
 ### ✨ About Me:
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [side project](https://github.com/jiaegong/worldtour_inmytinyroom)
 - 🌱 I’m currently learning TypeScript and TDD
 - 💬 I write regular blog posts on [Velog](https://velog.io/@jiaegong)
 - 📫 How to reach me: Portfolio
