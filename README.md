@@ -6,7 +6,7 @@ I'm a frontend junior developer(React.js) from Korea👶 I have a passion for le
 - 🔭 I’m currently working on [side project](https://github.com/jiaegong/worldtour_inmyroom)
 - 🌱 I’m currently learning TypeScript and TDD
 - 💬 I write regular blog posts on [Velog](https://velog.io/@jiaegong)
-<!-- - 📫 How to reach me: Portfolio -->
+- 📫 How to reach me: jiae.gong93@gmail.com
 - ⚡ Fun fact: I have a degree in Business Administration!
 
 ### 👩‍💻 Skills:
