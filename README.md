@@ -1,6 +1,6 @@
 ### Welcome to my humble abode in the Digital World 👋 I'm Jiae Gong
 
-I'm a frontend developer from Korea👶 I have a passion for learning new things and sharing with others. JavaScript is my first language!😄
+I'm a frontend junior developer from Korea👶 I have a passion for learning new things and sharing with others. JavaScript is my first language!😄
 
 ### ✨ About Me:
 - 🔭 I’m currently working on [side project](https://github.com/jiaegong/worldtour_inmytinyroom)
